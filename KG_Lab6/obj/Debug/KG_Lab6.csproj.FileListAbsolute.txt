@@ -1,0 +1,13 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\bin\Debug\KG_Lab6.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\MainWindow.baml
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\MainWindow.g.cs
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\App.g.cs
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6_MarkupCompile.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6.g.resources
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\bin\Debug\KG_Lab6.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\bin\Debug\KG_Lab6.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\KG_Lab6\KG_Lab6\obj\Debug\KG_Lab6.pdb
